@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btnBmi"
+        android:id="@+id/btnCalculator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="CALCULATE BMI"
@@ -27,6 +27,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnBmi"
+        app:layout_constraintTop_toBottomOf="@+id/btnCalculator"
         app:layout_constraintVertical_bias="0.045" />
 </androidx.constraintlayout.widget.ConstraintLayout>

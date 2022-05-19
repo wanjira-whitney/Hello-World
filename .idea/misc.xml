@@ -5,7 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_height_24.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_calculate_bmi.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_calculator_bmi.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_send_money.xml" value="0.17" />
         <entry key="app/src/main/res/layout/activity_send_money2.xml" value="0.19" />
       </map>
